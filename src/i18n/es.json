@@ -345,3 +345,17 @@
     "readMore": "Leer Más"
   }
 }
+ "privacyComparison": {
+      "legend": {
+        "publicData": "Datos públicos",
+        "privateData": "Datos privados"
+      }
+    },
+    "stealthAnimation": {
+      "benefits": {
+        "unlinkable": "Las direcciones del emisor y receptor nunca se vinculan en cadena",
+        "oneTime": "Cada pago usa una dirección única de un solo uso",
+        "passive": "Solo el receptor puede detectar y acceder a sus pagos",
+        "noCoordination": "Sin coordinación necesaria — meta-dirección publicada una vez"
+      }
+    },
